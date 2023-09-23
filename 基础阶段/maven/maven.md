@@ -1,4 +1,6 @@
 ## maven打包会自动执行test方法，如何skipTests关闭maven自动执行test
+https://blog.csdn.net/lizz861109/article/details/109033157
+
 ```
 方案1
 使用spring-boot-maven-plugin方式打包，可以增加参数 <skipTests>true</skipTests>
