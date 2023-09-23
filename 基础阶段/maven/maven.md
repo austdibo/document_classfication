@@ -27,5 +27,6 @@ idea中设置关闭
 方案4
 在执行命令中增加 -DskipTests=true，跳过test。
 ```
+![Minion](https://img-blog.csdnimg.cn/20201118180330682.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeno4NjExMDk=,size_16,color_FFFFFF,t_70)
 
 ## test
